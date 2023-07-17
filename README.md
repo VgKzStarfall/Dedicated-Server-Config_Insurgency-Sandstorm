@@ -1,4 +1,3 @@
-# Dedicated-Server-Config_Insurgency-Sandstorm
 # Location & Instruction
 
 ## Server Startup
