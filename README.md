@@ -1,5 +1,5 @@
 # Location & Instruction
-Mod Using (Configured Inside Game.ini):
+Mod Usage(Configured Inside Game.ini):
 Improved AI; Loadout Modifier; Fire Support Modifier; FpLegs; Hud Messenger; Welcome/Join/Leave Message
 
 ## Server Startup
