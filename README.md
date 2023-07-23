@@ -5,6 +5,7 @@ Improved AI; Loadout Modifier; Fire Support Modifier; FpLegs; Hud Messenger; Wel
 ## Server Startup
 Fill between then "" at GameStatsToken="" & GSLTToken="" with your own tokens.
 Replace the Port and QueryPort with yours.
+
 ...\steamcmd\common\sandstorm_server\start.bat
 ## Server Configuration
 ...\steamcmd\steamapps\common\sandstorm_server\Insurgency\Saved\Config\WindowsServer\Game.ini
