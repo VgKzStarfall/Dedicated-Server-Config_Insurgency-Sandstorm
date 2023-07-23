@@ -3,7 +3,8 @@ Mod Usage(Configured Inside Game.ini):
 Improved AI; Loadout Modifier; Fire Support Modifier; FpLegs; Hud Messenger; Welcome/Join/Leave Message
 
 ## Server Startup
-# Replace GameStatsToken="" and GSLTToken="" with your own tokens.
+Fill between then "" at GameStatsToken="" & GSLTToken="" with your own tokens.
+Replace the Port and QueryPort with yours.
 ...\steamcmd\common\sandstorm_server\start.bat
 ## Server Configuration
 ...\steamcmd\steamapps\common\sandstorm_server\Insurgency\Saved\Config\WindowsServer\Game.ini
