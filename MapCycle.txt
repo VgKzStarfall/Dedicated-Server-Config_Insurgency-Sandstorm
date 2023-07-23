@@ -1,5 +1,4 @@
 
-
 (Scenario="Scenario_Bab_Checkpoint_Security",Mode="CheckpointHardcore",Lighting="Day")
 (Scenario="Scenario_Farmhouse_Checkpoint_Security",Mode="CheckpointHardcore",Lighting="Day")
 (Scenario="Scenario_Crossing_Checkpoint_Security",Mode="CheckpointHardcore",Lighting="Day")
